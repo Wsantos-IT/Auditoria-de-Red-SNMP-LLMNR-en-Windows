@@ -2,6 +2,6 @@
 Proyecto del Máster de Ciberseguridad donde realizamos una auditoria completa de red en sus fases de Reconocimiento, Explotacion, Post Explotacion en la cual fueron protagonistas los protocolos SNMP &amp; LLMNR, hicimos uso de herramientas como nmap, TCPdump,  Onesyxtone, Responder,etc en Kali Linux
 
 
-Adjuntado: Power Point 
+⬇️Adjuntado: Power Point 
 
-<img src="proyecto1.png" width="600"> 
+<img src="proyecto1.png" width="500"> <img src="proyecto2.png" width="500"> 
